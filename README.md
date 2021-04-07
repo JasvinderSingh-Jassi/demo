@@ -9,3 +9,7 @@ hello friends
 # Information
 
 take covid precautions
+
+# Thanks
+
+Thanking message
